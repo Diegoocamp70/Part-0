@@ -1,1 +1,1 @@
-ignore the first diagram
+ignore the Diagram-1-new note.png
